@@ -1,50 +1,104 @@
-<h1 align="center">Hi 👋, I'm Manobala S</h1>
-<h3 align="center">Integrated M.Tech Software Engineering Student | Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;AI+%26+Deep+Learning+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New" />
-</p>
+# Hi, I'm Manobala S 👋
+
+### Full Stack Developer • Software Engineering Student • AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Backend+Engineering+%7C+System+Design;React+%7C+Next.js+%7C+Node.js;AI+%7C+Machine+Learning;Always+Learning+Something+New"/>
+
+<br>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-🎓 Integrated M.Tech in Software Engineering at **VIT Vellore**
+```yaml
+Name: Manobala S
 
-💻 Passionate about building scalable full-stack applications.
+Education:
+  Integrated M.Tech in Software Engineering
+  VIT Vellore
 
-🚀 Interested in Backend Development, Cloud, System Design & AI.
+Focus:
+  • Backend Development
+  • Full Stack Engineering
+  • Artificial Intelligence
+  • System Design
 
-🌱 Currently learning
-- System Design
-- Docker & Kubernetes
-- AWS
-- Advanced Backend Engineering
+Currently Learning:
+  • Kubernetes
+  • Docker
+  • AWS
+  • Microservices
 
-⚡ Fun Fact:
-> I love turning ideas into real-world products.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://manoportfolio-beta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/manobala8055/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shankarmanogym@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+Open To:
+  • Software Engineering Internships
+  • Backend Developer Roles
+```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Featured Projects
+
+### 🏥 CliniCall
+
+Scalable Healthcare Appointment Platform
+
+✨ Highlights
+
+- Redis Distributed Caching
+- JWT Authentication
+- BullMQ Background Jobs
+- PostgreSQL
+- CI/CD using GitHub Actions
+- Horizontal Scaling
+
+---
+
+### 🎬 MovieHub
+
+Modern Movie Database Platform
+
+✨ Highlights
+
+- React.js
+- Node.js
+- Express.js
+- MySQL
+- REST APIs
+- MVC Architecture
+
+---
+
+### 🧠 Parkinson's Disease Detection
+
+AI Powered Healthcare Solution
+
+✨ Highlights
+
+- Python
+- Transformers
+- PyTorch
+- Streamlit
+- Deep Learning
+
+---
+
+# ⚙ Tech Stack
 
 ### Languages
 
@@ -70,118 +124,91 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
 </p>
 
-### Tools
+### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,webpack"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma,postman"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📊 GitHub Analytics
 
-## 🏥 CliniCall
+<div align="center">
 
-Healthcare Appointment Platform
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mano-8055&show_icons=true&hide_border=true&theme=transparent"/>
 
-✔ Redis Caching
+<img height="170" src="https://streak-stats.demolab.com?user=Mano-8055&theme=transparent&hide_border=true"/>
 
-✔ JWT Authentication
+</div>
 
-✔ BullMQ Queue
+<br>
 
-✔ PostgreSQL
+<div align="center">
 
-✔ CI/CD using GitHub Actions
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-8055&layout=compact&theme=transparent&hide_border=true"/>
 
----
-
-## 🎬 MovieHub
-
-Movie Database Application
-
-✔ React
-
-✔ Node.js
-
-✔ Express
-
-✔ MySQL
-
-✔ REST APIs
-
----
-
-## 🧠 Parkinson's Disease Detection
-
-Multimodal AI System
-
-✔ Python
-
-✔ Transformers
-
-✔ PyTorch
-
-✔ Streamlit
-
-✔ Deep Learning
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mano-8055&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mano-8055&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-8055&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🛠 Tools I Use
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode,npm"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mano-8055&theme=tokyonight&column=4"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Manobala's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mano-8055&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mano-8055&theme=github-compact"/>
+
+</div>
 
 ---
 
-# 👀 Visitors
+# 🏆 Achievements
 
-<p align="center">
+🏅 NVIDIA Fundamentals of Deep Learning
 
-<img src="https://komarev.com/ghpvc/?username=Mano-8055&label=Profile+Views&color=0e75b6&style=flat"/>
+🏅 React Development Certification
 
-</p>
+🎓 Integrated M.Tech in Software Engineering
 
 ---
 
-<h3 align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</h3>
+# 💻 Currently Working On
+
+- 🚀 Scalable Backend Systems
+- 🤖 AI Powered Applications
+- 📦 Cloud Native Development
+- ⚡ Advanced System Design
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mano-8055&label=Profile%20Views&color=3B82F6&style=flat-square"/>
+
+<br><br>
+
+> *"Code is not just about solving problems—it's about creating experiences that make a difference."*
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
