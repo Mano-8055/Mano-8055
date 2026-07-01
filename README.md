@@ -1,104 +1,35 @@
+
+# Hi 👋, I'm Manobala S
+
 <div align="center">
 
-# Hi, I'm Manobala S 👋
+### Software Engineering Student • Full Stack Developer • AI Enthusiast
 
-### Full Stack Developer • Software Engineering Student • AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=220&section=header&text=Manobala%20S&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Backend+Engineering+%7C+System+Design;React+%7C+Next.js+%7C+Node.js;AI+%7C+Machine+Learning;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;AI+%26+Machine+Learning;Always+Learning+New+Technologies"/>
 
-<br>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+<a href="https://manoportfolio-beta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/></a>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```yaml
-Name: Manobala S
-
-Education:
-  Integrated M.Tech in Software Engineering
-  VIT Vellore
-
-Focus:
-  • Backend Development
-  • Full Stack Engineering
-  • Artificial Intelligence
-  • System Design
-
-Currently Learning:
-  • Kubernetes
-  • Docker
-  • AWS
-  • Microservices
-
-Open To:
-  • Software Engineering Internships
-  • Backend Developer Roles
-```
+- 🎓 Integrated M.Tech Software Engineering @ VIT Vellore
+- 💻 Passionate about scalable backend systems and modern web applications
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- ☁️ Currently learning Docker, Kubernetes, AWS and System Design
+- 🚀 Looking for Software Engineering & Backend Internship opportunities
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏥 CliniCall
-
-Scalable Healthcare Appointment Platform
-
-✨ Highlights
-
-- Redis Distributed Caching
-- JWT Authentication
-- BullMQ Background Jobs
-- PostgreSQL
-- CI/CD using GitHub Actions
-- Horizontal Scaling
-
----
-
-### 🎬 MovieHub
-
-Modern Movie Database Platform
-
-✨ Highlights
-
-- React.js
-- Node.js
-- Express.js
-- MySQL
-- REST APIs
-- MVC Architecture
-
----
-
-### 🧠 Parkinson's Disease Detection
-
-AI Powered Healthcare Solution
-
-✨ Highlights
-
-- Python
-- Transformers
-- PyTorch
-- Streamlit
-- Deep Learning
-
----
-
-# ⚙ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -109,7 +40,7 @@ AI Powered Healthcare Solution
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 </p>
 
 ### Backend
@@ -127,88 +58,121 @@ AI Powered Healthcare Solution
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma"/>
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏥 **CliniCall** | Healthcare appointment platform using Next.js, Node.js, PostgreSQL, Redis, BullMQ, JWT and CI/CD. |
+| 🎬 **MovieHub** | Movie database platform using React, Node.js, Express and MySQL. |
+| 🧠 **Parkinson Detection** | AI powered disease detection using PyTorch, Transformers and Streamlit. |
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mano-8055&show_icons=true&hide_border=true&theme=transparent"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mano-8055&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Mano-8055&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Mano-8055&theme=transparent&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-8055&layout=compact&theme=transparent&hide_border=true"/>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-8055&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mano-8055&theme=github-compact"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mano-8055&theme=github-dark"/>
+</p>
 
 ---
 
-# 🏆 Achievements
+## 🏆 GitHub Trophies
 
-🏅 NVIDIA Fundamentals of Deep Learning
-
-🏅 React Development Certification
-
-🎓 Integrated M.Tech in Software Engineering
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mano-8055&theme=algolia&column=4"/>
+</p>
 
 ---
 
-# 💻 Currently Working On
+## 📚 Certifications
 
-- 🚀 Scalable Backend Systems
-- 🤖 AI Powered Applications
-- 📦 Cloud Native Development
-- ⚡ Advanced System Design
+- NVIDIA Fundamentals of Deep Learning
+- React Certification
+- Integrated M.Tech Software Engineering
 
 ---
 
-# 📫 Let's Connect
+## 🎯 Current Focus
 
-<div align="center">
+- Backend Engineering
+- Distributed Systems
+- Cloud Native Applications
+- AI Powered Products
+- Open Source
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-</a>
+## 💬 Quote
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail"/>
-</a>
+> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
 
-</div>
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mano-8055&style=for-the-badge&color=2563EB"/>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mano-8055&label=Profile%20Views&color=3B82F6&style=flat-square"/>
+### ⭐ Thanks for visiting my profile!
 
-<br><br>
+If you like my work, consider giving a ⭐ to my repositories.
 
-> *"Code is not just about solving problems—it's about creating experiences that make a difference."*
-
-⭐ **Thanks for visiting my profile!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=120&section=footer"/>
 
 </div>
+
+## Optional GitHub Action (Snake Animation)
+
+Create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Mano-8055
+          outputs: dist/github-contribution-grid-snake-dark.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
