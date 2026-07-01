@@ -1,0 +1,116 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title{
+    font:700 30px 'Segoe UI',sans-serif;
+    fill:#ffffff;
+}
+.bg{
+    fill:#0d1117;
+}
+.card{
+    fill:#161b22;
+    stroke:#30363d;
+    stroke-width:2;
+    rx:16;
+}
+
+.tech{
+    font:600 20px 'Segoe UI',sans-serif;
+    fill:white;
+}
+
+@keyframes scroll{
+0%{
+transform:translateX(0px);
+}
+100%{
+transform:translateX(-1300px);
+}
+}
+
+.marquee{
+animation:scroll 28s linear infinite;
+}
+
+.marquee:hover{
+animation-play-state:paused;
+}
+</style>
+
+<rect class="bg" width="1200" height="170"/>
+
+<text x="600" y="42" text-anchor="middle" class="title">
+⚡ Tech Stack
+</text>
+
+<g class="marquee">
+
+<g transform="translate(20 70)">
+<rect class="card" width="140" height="55"/>
+<text x="70" y="35" text-anchor="middle" class="tech">☕ Java</text>
+</g>
+
+<g transform="translate(180 70)">
+<rect class="card" width="160" height="55"/>
+<text x="80" y="35" text-anchor="middle" class="tech">🐍 Python</text>
+</g>
+
+<g transform="translate(360 70)">
+<rect class="card" width="150" height="55"/>
+<text x="75" y="35" text-anchor="middle" class="tech">⚛ React</text>
+</g>
+
+<g transform="translate(530 70)">
+<rect class="card" width="170" height="55"/>
+<text x="85" y="35" text-anchor="middle" class="tech">▲ Next.js</text>
+</g>
+
+<g transform="translate(720 70)">
+<rect class="card" width="180" height="55"/>
+<text x="90" y="35" text-anchor="middle" class="tech">🟢 Node.js</text>
+</g>
+
+<g transform="translate(920 70)">
+<rect class="card" width="180" height="55"/>
+<text x="90" y="35" text-anchor="middle" class="tech">🚂 Express</text>
+</g>
+
+<g transform="translate(1120 70)">
+<rect class="card" width="180" height="55"/>
+<text x="90" y="35" text-anchor="middle" class="tech">🍃 MongoDB</text>
+</g>
+
+<g transform="translate(1320 70)">
+<rect class="card" width="180" height="55"/>
+<text x="90" y="35" text-anchor="middle" class="tech">🐘 PostgreSQL</text>
+</g>
+
+<g transform="translate(1520 70)">
+<rect class="card" width="160" height="55"/>
+<text x="80" y="35" text-anchor="middle" class="tech">⚡ Redis</text>
+</g>
+
+<g transform="translate(1700 70)">
+<rect class="card" width="170" height="55"/>
+<text x="85" y="35" text-anchor="middle" class="tech">🐳 Docker</text>
+</g>
+
+<g transform="translate(1890 70)">
+<rect class="card" width="150" height="55"/>
+<text x="75" y="35" text-anchor="middle" class="tech">🐧 Linux</text>
+</g>
+
+<g transform="translate(2060 70)">
+<rect class="card" width="150" height="55"/>
+<text x="75" y="35" text-anchor="middle" class="tech">🌿 Git</text>
+</g>
+
+<g transform="translate(2230 70)">
+<rect class="card" width="170" height="55"/>
+<text x="85" y="35" text-anchor="middle" class="tech">💙 GitHub</text>
+</g>
+
+</g>
+
+</svg>
